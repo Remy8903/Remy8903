@@ -46,17 +46,6 @@ I specialize in **PHP/Laravel development**, crafting clean and maintainable bac
 
 ## 🚀 Featured Projects
 
-### 🔧 [Distributed Task Queue](https://github.com/Remy8903)
-> A systems-level project implementing a distributed task queue from scratch.  
-`C` `Concurrency` `Networking` `Systems Programming`
-
-### 🌐 [Custom HTTP Server](https://github.com/Remy8903)
-> A lightweight HTTP server built from the ground up, handling routing, headers, and responses.  
-`C` `TCP/IP` `HTTP Protocol` `Systems Programming`
-
-### 🗃️ [Mini Git Clone](https://github.com/Remy8903)
-> A minimal implementation of Git's core features — commits, branches, and diffs.  
-`Systems Programming` `Data Structures` `File I/O`
 
 ---
 
